@@ -6,7 +6,7 @@ centerPoint="48.858352497048735,2.29422043272987"
 zoomLevel=16
 borderSize=80
 percentage_overlap = 0.10
-number_of_images_each_direction = 3
+number_of_images_each_direction = 3   #Keep this number reasonnable (I would say do not go over 4 or 5 images)
 
 ################################################################################
 
